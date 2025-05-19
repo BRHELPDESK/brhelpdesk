@@ -1,1 +1,83 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>BRHELPDESK - Crypto Edition</title>
+
+  <style>
+    body {
+      background: linear-gradient(to bottom, #000000, #b8860b); /* Black to Gold */
+      color: white;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+
+    a {
+      color: #ffd700;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .logo {
+      margin-top: 20px;
+    }
+
+    .logo img {
+      width: 150px;
+    }
+
+    .content {
+      padding: 20px;
+    }
+
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    li {
+      margin: 10px 0;
+    }
+
+    footer {
+      margin-top: 30px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="logo">
+    <img src="images/brhelpdesk-logo.png" alt="BRHELPDESK Logo" />
+  </div>
+
+  <div class="content">
+    <h1>Welcome to BRHELPDESK - Crypto Edition</h1>
+    <p>This is the landing page for the crypto-based helpdesk system.</p>
+    <p><a href="https://github.com/BRHELPDESK/brhelpdesk" target="_blank">Explore Project</a></p>
+
+    <h2>Features</h2>
+    <ul>
+      <li>Referral Income</li>
+      <li>USDT Wallet</li>
+      <li>BRToken Integration</li>
+      <li>Task-based Income System</li>
+    </ul>
+  </div>
+
+  <footer>
+    <p>Contact us: <a href="https://t.me/BRHELPDESK" target="_blank">Join Telegram</a></p>
+    <p>Powered by ChatGPT | © 2025 BRHELPDESK</p>
+  </footer>
+
+</body>
+</html>
+
