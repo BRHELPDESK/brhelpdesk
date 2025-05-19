@@ -1,1 +1,19 @@
 
+body {
+  background: linear-gradient(to bottom, black, #bfa335);
+  color: white;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+}
+
+a {
+  color: #ffd700;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
